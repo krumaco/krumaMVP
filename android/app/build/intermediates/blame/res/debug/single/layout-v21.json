@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/romit/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c44c6cb0e5176463789e7faee9913e7d/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/romit/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c44c6cb0e5176463789e7faee9913e7d/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/romit/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c44c6cb0e5176463789e7faee9913e7d/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/romit/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c44c6cb0e5176463789e7faee9913e7d/res/layout-v21/notification_action.xml"
+    }
+]

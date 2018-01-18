@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/romit/Desktop/Projects/Kruma/KrumaApp/node_modules/lottie-react-native/lib/ios/LottieReactNative/LRNContainerView.m \
+  /Users/romit/Desktop/Projects/Kruma/KrumaApp/node_modules/lottie-react-native/lib/ios/LottieReactNative/LRNContainerView.h \
+  /Users/romit/Desktop/Projects/Kruma/KrumaApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/romit/Desktop/Projects/Kruma/KrumaApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/romit/Desktop/Projects/Kruma/KrumaApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/romit/Desktop/Projects/Kruma/KrumaApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/romit/Desktop/Projects/Kruma/KrumaApp/ios/build/Build/Products/Debug-iphonesimulator/include/Lottie/Lottie.h \
+  /Users/romit/Desktop/Projects/Kruma/KrumaApp/ios/build/Build/Products/Debug-iphonesimulator/include/Lottie/LOTAnimationTransitionController.h \
+  /Users/romit/Desktop/Projects/Kruma/KrumaApp/ios/build/Build/Products/Debug-iphonesimulator/include/Lottie/LOTAnimatedSwitch.h \
+  /Users/romit/Desktop/Projects/Kruma/KrumaApp/ios/build/Build/Products/Debug-iphonesimulator/include/Lottie/LOTAnimatedControl.h \
+  /Users/romit/Desktop/Projects/Kruma/KrumaApp/ios/build/Build/Products/Debug-iphonesimulator/include/Lottie/LOTCacheProvider.h \
+  /Users/romit/Desktop/Projects/Kruma/KrumaApp/ios/build/Build/Products/Debug-iphonesimulator/include/Lottie/LOTAnimationView.h \
+  /Users/romit/Desktop/Projects/Kruma/KrumaApp/ios/build/Build/Products/Debug-iphonesimulator/include/Lottie/LOTAnimationView_Compat.h \
+  /Users/romit/Desktop/Projects/Kruma/KrumaApp/ios/build/Build/Products/Debug-iphonesimulator/include/Lottie/LOTComposition.h \
+  /Users/romit/Desktop/Projects/Kruma/KrumaApp/ios/build/Build/Products/Debug-iphonesimulator/include/Lottie/LOTAnimationCache.h \
+  /Users/romit/Desktop/Projects/Kruma/KrumaApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/romit/Desktop/Projects/Kruma/KrumaApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/romit/Desktop/Projects/Kruma/KrumaApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h

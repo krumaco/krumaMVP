@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/res/merged/release/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/romit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/83a6a2a65c271c2d33b7ed205b973952/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/res/merged/release/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/romit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/83a6a2a65c271c2d33b7ed205b973952/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/res/merged/release/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/romit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/83a6a2a65c271c2d33b7ed205b973952/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    }
+]

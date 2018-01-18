@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/87c2591e597934557bdd4ffe67e2efc8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/Library/Android/sdk/build-tools/26.0.3/renderscript/lib/renderscript-v8.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="215805fbe923c9b192d4a9a3d13a07c7fc1d3f53">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/7a595454f1bfc574c9c138135b50982f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/34312c1a33bf78e1345ab693364a236a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/943c3878743472570930175a62654f27/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/facca47b4b4d526abf42409fc4352581/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="99941aaaf86dc5e525cd9208c2f7c9a624f4f004">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/d651b46f617e6a07b0fc417d15e792a6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/08c847877d2e3e269049eb900daa462e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e94206b33017cdc48c9f564536108bed/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/1cbd8440a670ef7a8bf7b5accdc753b8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/f04e781209504a2131fe2a945e72c2ef/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e5979c0613e1d412e4a141149551c67f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/338a744f47e17cd7d609ab74ca6a7c57/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="99941aaaf86dc5e525cd9208c2f7c9a624f4f004">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/ed46ca08faea01cfd79f7b98333b1f85/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7a25b324fdcda140b7008dc9f58c63d4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/eab33e4e201305a59d22eedaee2ddb46/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/Desktop/Projects/Kruma/KrumaApp/node_modules/react-native-vector-icons/android/build/intermediates/intermediate-jars/release/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/338a744f47e17cd7d609ab74ca6a7c57/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/lottie-2.2.5.aar/847968d23a9e97b90ed6da87b2eda392/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c1d82452c4b2f95a5ad983cb40b6736f3f11478e">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c44c6cb0e5176463789e7faee9913e7d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/Desktop/Projects/Kruma/KrumaApp/node_modules/lottie-react-native/lib/android/build/intermediates/intermediate-jars/release/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7821452986a44aca5496a454f91dfda8cd1c4503">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/fb4e947bce7c9ad392607841b2ef26eb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/83a6a2a65c271c2d33b7ed205b973952/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/1c28c7030203126229a5c8556043ba03/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/86412f6eae79cf4d517e85e7b929aae8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/lottie-2.2.5.aar/6b64de8f99b55624261b79151110bf91/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c1d82452c4b2f95a5ad983cb40b6736f3f11478e">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/95a27deba6e1d03fe33a31ccd3f72125/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/604fdaecfb59f4114a235f389375071f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/facca47b4b4d526abf42409fc4352581/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/85dc158fe0403f5b966dc00f3e14a96e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/2615ca7be70de4973a4ca5c92099e56f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/d30b0abc9217cd4c3ca1361969d43c40/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d7a601188d2017e5656c4ac84ec44603/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9ab4e0698118e4b68f964f4e95257ec5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/cd1dd58d1f1e489c1df1b01805cdc6dc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/240e0ac74b1bdac5ec3d3adacbd653e7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fd5b11256342e32a681262592f4c9a3f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6d42e01fea44bc34a8448cb2ef836b7c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/c8c4c0a7ef3a33bee445887a039a23db/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/594c3c89aac29676f5bb717ab5b91a22/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/347b2d5507165b8b6669ff2209ea2aa9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ada2321c0e606890d10228b8050bb18e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/4c482058eb32f02229a41808b0133a17/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/c33085fc83bb28891bfd586e32b86e90/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/romit/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/eccd4a022316a983cc3468a87b263628/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.3"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/romit/Desktop/Projects/Kruma/KrumaApp/android/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+
+</items>
